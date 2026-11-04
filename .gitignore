@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Banco de dados vetorial e dados locais
+dados/
+*.chromadb
+
+# Arquivos temporários e caches do Python
+__pycache__/
+*.pyc
+.pytest_cache/
